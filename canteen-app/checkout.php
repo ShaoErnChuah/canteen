@@ -96,8 +96,8 @@ if(isset($_POST['reduce_qty'])){
     $mail->SMTPAuth=true;
     $mail->SMTPSecure='tls';
 
-    $mail->Username='inticanteen@gmail.com';
-    $mail->Password='zagpinvsfllzqzyy';
+    $mail->Username='';
+    $mail->Password='';
 
     $mail->setFrom('inticanteen@gmail.com',"Your order");
     $mail->addAddress($email,'Name');
