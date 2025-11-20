@@ -1,0 +1,89 @@
+header {
+    background-color: #fff;
+    padding: 15px;
+    box-shadow: 0 0 3px #000;
+    position: relative;
+    text-align: center;
+}
+
+header li{
+    display:inline;
+    padding-left:45px;
+}
+
+    header li a {
+        color: #333;
+        text-decoration: none;
+        padding: 13px;
+        transition: .3s ease;
+    }
+
+  
+  header ul #cart a{
+      float:right;
+      position:relative;
+      
+  }
+
+    header ul #log a {
+        float: right;
+        position:relative;
+        
+    }
+
+header li img{
+    width:180px;
+    float:left;
+    margin-top:-20px;
+}
+.sub-menu-wrap{
+    position:absolute;
+    top: 100%;
+    right: 1%;
+    width: 200px;
+    max-height:0px;
+    overflow: hidden;
+    transition: max-height 0.5s;
+}
+.sub-menu-wrap.open-menu{
+    max-height:500px;
+}
+.sub-menu{
+    background:whitesmoke;
+    padding: 10px;
+    margin: 10px;
+}
+.user-info{
+    display: flex;
+    align-items: center;
+}
+.user-info h3{
+    font-weight: 500;
+}
+.sub-menu hr{
+    border: 0;
+    height: 1px;
+    width:100%;
+    background: #ccc;
+    margin-top: 0px;
+}
+.sub-menu-link{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #525252;
+    margin: 12px 0;
+}
+.sub-menu-link p{
+    width: 100%;
+}
+.sub-menu-link span{
+    font-size: 20px;
+    transition: transform 0.5s;
+}
+.sub-menu-link:hover span{
+    transform: translateX(5px);
+}
+.sub-menu-link:hover p{
+    font-weight: 600;
+}
