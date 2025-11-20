@@ -40,7 +40,8 @@ Example Pictures:
 <img width="884" height="541" alt="image" src="https://github.com/user-attachments/assets/db3e0f02-eecc-46b1-ad7b-ac1619f2f4c4" />
 
 <img width="940" height="559" alt="image" src="https://github.com/user-attachments/assets/120c4fe4-323e-4448-a729-ff962be1f439" />
-<img width="940" height="559" alt="image" src="https://github.com/user-attachments/assets/6eb0493b-a6ae-4f33-9fa6-d86d84306bab" />
+<img width="940" height="450" alt="image" src="https://github.com/user-attachments/assets/07e8ffaf-518b-44f9-b2c8-e51e809443de" />
+
 <img width="940" height="559" alt="image" src="https://github.com/user-attachments/assets/84dc3c9b-38e2-4a76-b9ef-beea294e3064" />
 
 <img width="940" height="354" alt="image" src="https://github.com/user-attachments/assets/a04e816d-127e-4559-a6e8-d78319da0851" />
