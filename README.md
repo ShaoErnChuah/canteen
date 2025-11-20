@@ -42,7 +42,8 @@ Example Pictures:
 <img width="940" height="559" alt="image" src="https://github.com/user-attachments/assets/120c4fe4-323e-4448-a729-ff962be1f439" />
 <img width="940" height="450" alt="image" src="https://github.com/user-attachments/assets/07e8ffaf-518b-44f9-b2c8-e51e809443de" />
 
-<img width="940" height="450" alt="image" src="https://github.com/user-attachments/assets/29d69c35-334b-4cc5-b961-60b97828e640" />
+<img width="852" height="483" alt="image" src="https://github.com/user-attachments/assets/ef6657dd-e407-4bcc-89cf-1567d36c2469" />
+
 
 
 <img width="940" height="354" alt="image" src="https://github.com/user-attachments/assets/a04e816d-127e-4559-a6e8-d78319da0851" />
